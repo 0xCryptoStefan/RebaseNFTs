@@ -11,6 +11,7 @@ contract BaseCollection is ERC1155 {
     uint256 public constant EPIC = 3;
     uint256 public constant LEGENDARY = 4;
 
-    constructor() public ERC1155("metadataurl") {
+    constructor(string memory metadataURI) public ERC1155(metadataURI) {
+        _mint(msg.sender, LEGENDARY, 1, "");
     }
 }
