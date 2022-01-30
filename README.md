@@ -1,7 +1,17 @@
 # Rebasing NFTs
 
 ## Context
-This is an experiment from the Newt project, the experiments arm of Aave.
+This is an experiment from the Newt project, the experiments arm of Aave.  To find out more, check out our website, drop into the Discord and follow us on Twitter.
+
+https://wearenewt.xyz/
+
+https://discord.com/invite/aR97SCedY7
+
+https://twitter.com/wearenewt
+
+
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## Description
 The experiment is exploring:
@@ -25,26 +35,20 @@ The experiment is exploring:
 | Chain                   | Address                              |
 |---                      |---                                   |
 | Ethereum Mainnet        | 0x                                   |
-| Rinkey Testnet          | 0x                                   |
+| Rinkeby Testnet         | 0x                                   |
 | Ropsten Testnet         | 0x                                   |
 | Kovan Testnet           | 0x                                   |
 | Polygon Mainnet         | 0x                                   |
 | Polygon Mumbai Testnet  | 0x                                   |
 
+## Technologies
+### Languages
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-Description from the Users Point of View
-The SDD should describe what the user does and why. Describe their business incentives for using the application. Ideally it would have a users instruction manual and a set of user stories but that is not required.
-Tokens
-This is the only document where you can describe the uses and lifecycle of a token from a business perspective. It is important for an auditor to know which tokens will hold a high value.
-Diagrams
-This is a good place to include any relevant flow diagrams explaining your system or aspects of it. Many other documents of this process (requirements, code, tests, etc) often are text files that cannot carry documents, so put the diagrams in this document and reference them elsewhere.
-Web Aspect of the Application
-While this section can simply describe a web application, consider mentioning other aspects important to the smart contract. How many instances can be called in parallel? Are there any aspects in the design of the web application that will affect the smart contract (e.g. the owner is assumed to use it only in a certain way)? State any relevant assumptions.
-Hardware
-If your Application uses hardware such as an Internet of Things device, this is the place to describe it. If the device will interact with the Blockchain then its code will have its own set of requirements.
-
-## Questions
-What is the top level of your System/Application/Product?
-What does the User see and do with the Application?
-Describe any tokens involved in the system, including value and flow.
+### Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
